@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+}
+p {
+    color: red;
+}
+button{
+    color: rgb(97, 165,15);
+    background: whitesmoke;;
+}
+body{
+    background-color: #862B0D;
+    
+}
+ * {
+    color: #862B0D;
+
+ }
+
